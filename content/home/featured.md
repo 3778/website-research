@@ -62,4 +62,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<github-button href="https://github.com/dsevero/ward2icu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star dsevero/ward2icu on GitHub">Star</github-button>
+
+<span style="text-shadow: none;"><github-button href="https://github.com/dsevero/ward2icu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star dsevero/ward2icu on GitHub">Star</github-button><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+
