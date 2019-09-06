@@ -17,7 +17,7 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#000000"
+  color = "#FFFFFF"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
@@ -42,7 +42,5 @@ hero_media = "hero-academic.png"
 +++
 
 **Vital Signs Data of Inpatients from the General Ward.**
-
-Build **Anything** with Widgets
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/dsevero/ward2icu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
