@@ -62,3 +62,37 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+```mermaid
+graph LR
+	subgraph t
+        subgraph Ward
+            00(( ))
+            01(( ))
+            02(( ))
+            03(( ))
+        end
+	end
+	subgraph t+1
+        subgraph ICU
+            10(( ))
+            11(( ))
+        end 
+
+        subgraph Home
+            22(( ))
+        end 
+        
+        subgraph Ward
+            33(( ))
+        end 
+	end
+
+    00(( )) --> 10(( ))
+    01(( )) --> 11(( ))
+    02(( )) --> 22(( ))
+    03(( )) --> 33(( ))
+```
+
+
+
