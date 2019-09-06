@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = ralse  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Ward2ICU"
@@ -42,5 +42,3 @@ hero_media = "hero-academic.png"
 +++
 
 **Vital Signs Data of Inpatients from the General Ward.**
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/dsevero/ward2icu" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
