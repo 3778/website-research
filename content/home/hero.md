@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
-active = ralse  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Ward2ICU"
@@ -40,5 +40,3 @@ hero_media = "hero-academic.png"
   icon = "download"
 
 +++
-
-**Vital Signs Data of Inpatients from the General Ward.**
