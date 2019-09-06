@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Ward2ICU"
-  url = "#data"
+  url = "publication/ward2icu"
   weight = 20
 
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
