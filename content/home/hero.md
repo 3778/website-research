@@ -43,16 +43,6 @@ hero_media = "hero-academic.png"
   url = "www.google.com"
   label = "Download data"
 
-[cta]
-  url = "www.google.com"
-  label = "Download"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "www.google.com"
-  label = "Download data"
-
 +++
 
 **Vital Signs Data of Inpatients from the General Ward.**
