@@ -2,7 +2,6 @@
 title: "An example conference paper"
 authors:
 - severo
-- flavio
 date: "2019-09-13:00:00Z"
 doi: ""
 
