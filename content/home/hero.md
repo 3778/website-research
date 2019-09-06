@@ -17,7 +17,7 @@ hero_media = "hero-academic.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#FFFFFF"
+  color = "#000000"
   
   # Background gradient.
   # gradient_start = "#4bb4e3"
