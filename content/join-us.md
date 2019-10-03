@@ -1,8 +1,7 @@
 
-Here are 3778 we are **always** looking for talented Scientists that are passionate about apply and developing Machine Learning algorithms to healthcare.
+Here at 3778 we are **always** looking for talented scientists that are passionate about apply and developing machine learning algorithms for healthcare.
 
-
-We believe that a selection processes should be fair and open to the widest audience possible.
+We believe that a selection processes should be fair and open to the widest audience possible. Therefore, we've created a new hiring process illustrated below.
 
 <small>
 ```mermaid
