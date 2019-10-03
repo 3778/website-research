@@ -1,8 +1,10 @@
+# Data Scientist @ 3778
 
 Here at 3778 we are **always** looking for talented scientists that are passionate about apply and developing machine learning algorithms for healthcare.
 
 We believe that a selection processes should be fair and open to the widest audience possible. Therefore, we've created a new hiring process illustrated below.
 
+## The process
 <small>
 ```mermaid
 sequenceDiagram
@@ -29,3 +31,7 @@ sequenceDiagram
     3778-->>You: 12. Offer to join us is made
 ```
 </small>
+
+
+## Our team
+You will work with a very diverse team spawning multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Jornalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. 

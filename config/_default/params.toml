@@ -18,7 +18,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: s (small), m (medium), l (large)
-font_size = "m"
+font_size = "s"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Welcome to 3778’s Machine Learning for Health Research Group. We are a self-funded organization distributed between São Paulo, Belo Horizonte and Florianópolis - Brazil applying machine learning to solve problems related to patient privacy and medical text understanding."
