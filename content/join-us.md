@@ -19,7 +19,7 @@ sequenceDiagram
         3778-->>You: 6. Suggests improvements
         Note right of 3778: else if looks <br> awesome
     end
-    3778-->>You: 7. R$ 200 for completing the challenge
+    3778-->>You: 7. R$ 200 reward
     loop until you are ready
         3778-->>You: 8. Let's schedule a call!
         Note right of 3778: 9. Interview <br> 10. Other stuff
