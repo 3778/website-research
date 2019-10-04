@@ -20,11 +20,13 @@ We are well aware that we cannot find a profile in the data field that has all t
 - Knows how to exit VIM; 
 
 ### Data Scientist
+- Interested in Python, R, or Julia;
 - PhD or MS degree;
 
 ### Business Analyst
-- Experience or practical knowledge within healthcare 
-- Excellent communication, both written and verbal, and presentation abilities.
+- Experience or practical knowledge with healthcare;
+- Excellent communication, both written and verbal, and presentation abilities;
+- 
 
 ## <b>Our team</b>
 ---
