@@ -20,18 +20,11 @@ We are well aware that we cannot find a profile in the data field that has all t
 - Knows how to exit VIM; 
 
 ### Data Scientist
+- PhD or MS degree;
+
 ### Business Analyst
-
-Some relevant skills:
-- Python ecosystem or R
-- Data science algorithms, databases and REST APIs
-- At least 2 years of professional experience as Data Scientist, Data Engineering or related positions
-- Analytics techniques (machine learning/time series analysis/optimization, etc) commensurate with education/experience level
-- Good knowledge of statistical and/or machine learning methods
-- Excellent communication, both written and verbal, and presentation abilities.
-- PhD or MS in a relevant discipline
 - Experience or practical knowledge within healthcare 
-
+- Excellent communication, both written and verbal, and presentation abilities.
 
 ## <b>Our team</b>
 ---
