@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Our research interests"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

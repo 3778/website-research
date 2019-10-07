@@ -1,32 +1,29 @@
 ---
-title: "Ward2ICU"
-authors:
-- severo
-- flavio
+title: "Compensation Models and Receipt Cycle"
 date: "2019-09-13:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
-external_link: https://arxiv.org/abs/1910.00752
+# external_link: https://arxiv.org/abs/1910.00752
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Source Themes Conference*
 # publication_short: In *STC*
 
-abstract: We present a proxy dataset of vital signs with class labels indicating patient transitions from the ward to intensive care units called Ward2ICU. Patient privacy is protected using a Wasserstein Generative Adversarial Network to implicitly learn an approximation of the data distribution, allowing us to sample synthetic data. The quality of data generation is assessed directly on the binary classification task by comparing specificity and sensitivity of an LSTM classifier on proxy and original datasets. We initialize a discussion of unintentionally disclosing commercial sensitive information and propose a solution for a special case through class label balancing.
+abstract: AI based system, capable os simulate financial risks on shifting from fee-for-service to different payment models (global stay up, pricing packages, bundle, budget, capitation), as well as identify purchase patterns, drug and supply consumption and staff behaviour. It also assists the billing process by predicting disallowance and identifying contract registration errors.
 # Summary. An optional shortened abstract.
 
-summary: A Vital Signs Dataset of Inpatients from the General Ward.
+summary: Minimizing financial risk in optimal compensation models.
 
-tags:
-- Source Themes
+# tags:
+# - Source Themes
 featured: true
 
 links:
@@ -48,3 +45,5 @@ image:
   focal_point: ""
   preview_only: true
 ---
+
+AI based system, capable os simulate financial risks on shifting from fee-for-service to different payment models (global stay up, pricing packages, bundle, budget, capitation), as well as identify purchase patterns, drug and supply consumption and staff behaviour. It also assists the billing process by predicting disallowance and identifying contract registration errors.

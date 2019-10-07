@@ -17,6 +17,7 @@ We are well aware that we cannot find a profile in the data field that has all t
 - A grounded understanding of system architectures, especially those targeted at data intensive applications;
 - Working knowledge of computer networks and distributed systems;
 - Security minded, and understands basic concepts of threat modeling and cryptography;
+- Experience with AWS Athena/Redshift, Presto, Hive, Spark, or similar ETL and warehousing technologies;
 - Knows how to exit VIM; 
 
 ### Data Scientist
