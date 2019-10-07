@@ -19,7 +19,7 @@ We provide competitive compensation and working conditions that vary depending o
 ## <b>What skills are we looking for?</b>
 ---
 
-Data Science is a spectrum, but it can be divided into 4 positions: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed caracteristics that are common amongst each. This is by no means an exhaustive list nor is it the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
+Data Science is a spectrum, but it can be divided into 4 positions: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed characteristics that are common amongst each. This is by no means an exhaustive list nor is it the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
 
 ### Data Engineer
 - Interested in Scala, Python, and/or Clojure;
@@ -63,11 +63,11 @@ If you feel that you fit into one, two or maybe even all of these categories: yo
 
 ## <b>Our team</b>
 ---
-Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Jornalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
+Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Journalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
 
 ## <b>How to apply?</b>
 ---
-We believe that a selection processes should be fair and open to the widest audience possible. It should also test and teach the necessary skills. There are currently 2 ways of applying and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
+We believe that a selection processes should be fair and open to the widest audience possible. It should also test and teach the necessary skills. There are currently 2 ways of applying, and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
 
 ### Data Engineer and Data Analyst
 Currently, we don't have a challenge for these types of professionals (but we are working on it!). For now, please send your CV, LinkedIn, GitHub and anything else you might find appropriate to:
@@ -82,7 +82,7 @@ The subject title **must be**
 <position initials> - <your name>
 ```
 
-otherwise it will be deleted. For example, if Ronald Fisher was applying for the Data Engineer position the email subject would be:
+otherwise, it will be deleted. For example, if Ronald Fisher was applying for the Data Engineer position the email subject would be:
 
 ```text
 DE - Ronald Fisher
