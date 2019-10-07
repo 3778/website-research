@@ -1,42 +1,79 @@
-# <b>Data Scientist @ 3778</b>
----
-We make data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as other UX-focused applications. Our goal is to make health integrated and accessible for everyone.
++++
+math = true
++++
 
-Here at 3778 we are **always** looking for talented scientists that are passionate about apply and developing machine learning algorithms for healthcare.
+# <b>Data Scientist @ 3778</b>
+
+---
+Here at 3778 we are **always** looking for talented scientists that are passionate about apply and developing machine learning algorithms for healthcare. We transform data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as UX-focused applications. Our goal is to make health integrated and accessible for everyone.
 
 We are an <b>Equal Opportunity Company</b> that is growing fast and we want to grow with the best team, and it takes diversity to achieve that. Regardless of you color, religion, gender, you are very welcome to our process.
+
+## <b>Compensation and Perks</b>
+We provide competitive compensation and working conditions that vary depending on contract type (CLT or PJ) and experience. Keeping teams small enables us to better understand the necessities of each person individually.
+
+- **Salary Range:** R$ 9.000 to 15.000;
+- **Remote:** Partially or fully;
+- **Health insurance:** Bradesco saúde hospitalar and customized family doctor plan, even for the PJ contract option!
 
 ## <b>What type of skills are we looking for?</b>
 ---
 
-We are well aware that we cannot find a profile in the data field that has all the qualities altogether. Data Science is a spectrum and we usually find 3 types of professionals: Data Engineer, Data Scientist and Business Analyst. Below, we've listed caracteristics that are common amongst each. This is by no means an exhaustive list nor is it the usual "minimal requirements" for applying.
+Data Science is a spectrum, but it can be well summarized in 4 types of professionals: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed caracteristics that are common amongst each. This is by no means an exhaustive list nor is it the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
 
 ### Data Engineer
 - Interested in Scala, Python, and/or Clojure;
-- Comfortable working with cloud providers such as AWS, GCP and Azure;
+- Writes up mad SQL queries using WITH clauses instead of sub-queries;
+- Extended knowledge of cloud providers such as AWS, GCP and Azure;
 - A grounded understanding of system architectures, especially those targeted at data intensive applications;
 - Working knowledge of computer networks and distributed systems;
 - Security minded, and understands basic concepts of threat modeling and cryptography;
 - Experience with AWS Athena/Redshift, Presto, Hive, Spark, or similar ETL and warehousing technologies;
 - Knows how to exit VIM; 
 
+### Machine Learning Specialist
+- Interested in Python and Scala;
+- Uses libraries such as Scikit-learn, Tensorflow, PyTorch, Keras, Dask and MLlib;
+- Deploys APIs to serve machine learning models;
+- Can handle unbalanced datasets; 
+- Writes unit tests;
+- Explains the bias-variance trade-off without blinking;
+- Knows how to report on different error metrics and when to use them;
+
 ### Data Scientist
 - Interested in Python, R, or Julia;
+- Comfortable working with cloud providers such as AWS, GCP and Azure;
 - PhD or MS degree;
+- Can perform a statistical hypothesis test;
+- Understands a confusion matrix;
+- Explains the difference between parametric and non-parametric statistics;
+- Knows what this means: $ P(X \mid Y) = \frac{P(Y \mid X)P(X)}{P(Y)}$;
+- Tries to explain the Monty Hall problem and Lady tasting tea experiment at social gatherings.
 
 ### Business Analyst
 - Experience or practical knowledge with healthcare;
+- Mainly uses Excel, Tableau, Qlik, Power BI, but is interested in learning Python and R;
+- Basic understanding of statistics, at least enough to interface with Data Scientists;
 - Excellent communication, both written and verbal, and presentation abilities;
-- 
+- Interested in Data visualization;
+- Knows how to synthesize complex concepts to present to C-level executives;
+- Doesn't shy away from talking to clients.
+
+If you feel that you fit into one, two or maybe even all of these categories: you are welcome to apply!
 
 ## <b>Our team</b>
 ---
-You will work with a very diverse team spawning multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Jornalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
+Diversity here is key. Our team is very diverse, spawning multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Jornalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
 
 ## <b>How to apply?</b>
 ---
+We believe that a selection processes should be fair and open to the widest audience possible. It should also test and teach the necessary skills for each type of professional. There are currently 2 ways of applying and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
 
-We believe that a selection processes should be fair and open to the widest audience possible. To achieve this, we've created a public challenge that is available at our GitHub page. We try as much as possible to hire based on candidate **potential** and not experience. To apply, generate a **private** repository from [our template](https://github.com/3778/ml-challenge) and start solving the challenge. When you think it looks good enough, invite FULANO to be a contributor on GitHub. The diagram below illustrates the rest.
+### Data Engineer and Data Analyst;
+INGRID O QUE TU QUER QUE ELES MANDEM?
+
+### Machine Learning Specialist and Data Scientist;
+We've created a public challenge that is available at our GitHub page. To apply, generate a **private** repository from [our template](https://github.com/3778/ml-challenge) and start solving the challenge. When you think it looks good enough, invite [dsevero](https://github.com/dsevero) to be a contributor on GitHub. The diagram below illustrates the rest.
 
 <small>
 ```mermaid
@@ -64,3 +101,7 @@ sequenceDiagram
     3778-->>You: 12. Offer to join us is made
 ```
 </small>
+
+## <b>This is a work in progress</b>
+
+The concept of this process is new and you can expect some bugs along the way. Please send suggestions, complaints and appraisals to `join-us@3778.care`.
