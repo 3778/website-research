@@ -5,9 +5,9 @@ math = true
 # <b>Data Scientist @ 3778</b>
 
 ---
-Here at 3778 we are **always** looking for talented scientists, engineers and analysts that are passionate about apply and developing machine learning algorithms for healthcare. We transform data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as UX-focused applications. Our goal is to make health integrated and accessible for everyone.
+Here at 3778 we are **always** looking for talented scientists, engineers and analysts that are passionate about apply and developing machine learning algorithms for healthcare. We transform data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as UX-focused applications. Our goal is to make health services integrated and accessible for everyone.
 
-We are an <b>Equal Opportunity Company</b> that is growing fast and we want to grow with the best team, and it takes diversity to achieve that. Regardless of you color, religion, gender, you are very welcome to our process.
+We are an <b>Equal Opportunity Company</b> that is growing fast and we want to grow with the best team, and it takes diversity to achieve that. Regardless of your color, religion, gender, you are very welcome to our process.
 
 ## <b>Compensation and Perks</b>
 We provide competitive compensation and working conditions that vary depending on contract type (CLT or PJ) and experience. Keeping teams small enables us to better understand the necessities of each person individually.
@@ -67,7 +67,7 @@ Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engi
 
 ## <b>How to apply?</b>
 ---
-We believe that a selection processes should be fair and open to the widest audience possible. It should also test and teach the necessary skills. There are currently 2 ways of applying, and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
+We believe that a selection process should be fair and open to the widest audience possible. It should also test and teach the necessary skills. There are currently 2 ways of applying, and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
 
 ### Data Engineer and Data Analyst
 Currently, we don't have a challenge for these types of professionals (but we are working on it!). For now, please send your CV, LinkedIn, GitHub and anything else you might find appropriate to:
