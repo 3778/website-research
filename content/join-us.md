@@ -16,10 +16,10 @@ We provide competitive compensation and working conditions that vary depending o
 - **Remote:** Partially or fully;
 - **Health insurance:** Bradesco saúde hospitalar and customized family doctor plan, even for the PJ contract option!
 
-## <b>What type of skills are we looking for?</b>
+## <b>What skills are we looking for?</b>
 ---
 
-Data Science is a spectrum, but it can be well summarized in 4 types of professionals: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed caracteristics that are common amongst each. This is by no means an exhaustive list nor is it the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
+Data Science is a spectrum, but it can be divided into 4 positions: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed caracteristics that are common amongst each. This is by no means an exhaustive list nor is it the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
 
 ### Data Engineer
 - Interested in Scala, Python, and/or Clojure;
@@ -67,9 +67,9 @@ Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engi
 
 ## <b>How to apply?</b>
 ---
-We believe that a selection processes should be fair and open to the widest audience possible. It should also test and teach the necessary skills for each type of professional. There are currently 2 ways of applying and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
+We believe that a selection processes should be fair and open to the widest audience possible. It should also test and teach the necessary skills. There are currently 2 ways of applying and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
 
-### Data Engineer and Data Analyst;
+### Data Engineer and Data Analyst
 Currently, we don't have a challenge for these types of professionals (but we are working on it!). For now, please send your CV, LinkedIn, GitHub and anything else you might find appropriate to:
 
 ```text
@@ -88,7 +88,7 @@ otherwise it will be deleted. For example, if Ronald Fisher was applying for the
 DE - Ronald Fisher
 ```
 
-### Machine Learning Specialist and Data Scientist;
+### Machine Learning Specialist and Data Scientist
 We've created a public challenge that is available at our GitHub page. To apply, generate a **private** repository from [our template](https://github.com/3778/ml-challenge) and start solving the challenge. When you think it looks good enough, invite [dsevero](https://github.com/dsevero) to be a contributor on GitHub. The diagram below illustrates the rest.
 
 <small>
