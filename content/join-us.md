@@ -63,7 +63,7 @@ If you feel that you fit into one, two or maybe even all of these categories: yo
 
 ## <b>Our team</b>
 ---
-Diversity here is key. Our team is very diverse, spawning multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Jornalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
+Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Jornalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
 
 ## <b>How to apply?</b>
 ---
