@@ -5,7 +5,7 @@ math = true
 # <b>Data Scientist @ 3778</b>
 
 ---
-Here at 3778 we are **always** looking for talented scientists, engineers and analysts that are passionate about apply and developing machine learning algorithms for healthcare. We transform data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as UX-focused applications. Our goal is to make health services integrated and accessible for everyone.
+Here at 3778 we are **always** looking for talented scientists, engineers and analysts that are passionate about applying and developing machine learning algorithms for healthcare. We transform data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as UX-focused applications. Our goal is to make health services integrated and accessible for everyone.
 
 We are an <b>Equal Opportunity Company</b> that is growing fast and we want to grow with the best team, and it takes diversity to achieve that. Regardless of your color, religion, gender, you are very welcome to our process.
 
