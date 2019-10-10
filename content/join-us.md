@@ -111,7 +111,7 @@ sequenceDiagram
         3778-->>You: 7. Let's schedule a call!
         Note right of 3778: 8. Interview <br> 9. Other stuff
         3778-->>You: 10. Feedback
-        Note right of 3778: if we decide you are ready <br> break loop
+        Note right of 3778: if we like you <br> break loop
     end
     3778-->>You: 11. R$ 500 reward
     3778-->>You: 12. Offer to join us is made
