@@ -108,8 +108,8 @@ sequenceDiagram
         Note right of 3778: else if looks <br> awesome
     end
     loop until you are ready
-        3778-->>You: 8. Let's schedule a call!
-        Note right of 3778: 9. Interview <br> 10. Other stuff
+        3778-->>You: 7. Let's schedule a call!
+        Note right of 3778: 8. Interview <br> 9. Other stuff
         3778-->>You: 10. Feedback
         Note right of 3778: if you are ready <br> break loop
     end
