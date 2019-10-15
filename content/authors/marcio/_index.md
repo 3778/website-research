@@ -1,6 +1,6 @@
 ---
 name: Marcio Gregory
-role: Machine Learning Researcher
+role: Researcher
 organizations:
 - name: 3778 Healthcare
   url: "https://www.3778.care"
