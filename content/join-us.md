@@ -75,6 +75,7 @@ Currently, we don't have a challenge for these types of professionals (but we ar
 ### Machine Learning Specialist and Data Scientist
 We've created a public challenge that is available at our GitHub page. To apply, generate a **private** repository from [our template](https://github.com/3778/ml-challenge) and start solving the challenge. When you think it looks good enough, invite [dsevero](https://github.com/dsevero) to be a contributor on GitHub. The diagram below illustrates the rest.
 
+(if the diagram below doesn't appear, please refresh the page)
 <small>
 ```mermaid
 sequenceDiagram
