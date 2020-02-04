@@ -12,8 +12,8 @@ We are an <b>Equal Opportunity Company</b> that is growing fast and we want to g
 ## <b>Compensation and Perks</b>
 We provide competitive compensation and working conditions that vary depending on contract type (CLT or PJ) and experience. Keeping teams small enables us to better understand the necessities of each person individually.
 
-- **Salary Range:** R$ 7.000 to 15.000;
-- **Remote:** Partially or fully;
+- **Salary Range:** R$ 3.000 (Jr) to 15.000 (Sr);
+- **Remote:** Partially;
 - **Health insurance:** Bradesco saúde hospitalar and customized family doctor plan, even for the PJ contract option!
 
 ## <b>What skills are we looking for?</b>
