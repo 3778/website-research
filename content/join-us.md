@@ -13,13 +13,13 @@ We are an <b>Equal Opportunity Company</b> that is growing fast and we want to g
 We provide competitive compensation and working conditions that vary depending on contract type (CLT or PJ) and experience. Keeping teams small enables us to better understand the necessities of each person individually.
 
 - **Salary Range:** R$ 3.000 (Jr) to 15.000 (Sr);
-- **Remote:** Partially;
+- **Perks:** Flexibility, Home-Office (2x per week), up to 3x your salary for completed OKRs; 
 - **Health insurance:** Bradesco saúde hospitalar and customized family doctor plan, even for the PJ contract option!
 
 ## <b>What skills are we looking for?</b>
 ---
 
-Data Science is a spectrum, but it can be divided into 4 positions: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed characteristics that are common amongst each. This is by no means an exhaustive list nor is it the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
+Data Science is a spectrum, but it can be divided into 4 positions: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed characteristics that are common amongst each. This is by no means the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
 
 ### Data Engineer
 - Interested in Scala, Python, and/or Clojure;
@@ -70,7 +70,7 @@ Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engi
 We believe that a selection process should be fair and open to the widest audience possible. It should also test and teach the necessary skills. There are currently 2 ways of applying, and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
 
 ### Data Engineer and Data Analyst
-Currently, we don't have a challenge for these types of professionals (but we are working on it!). For now, please [fill this out](https://forms.gle/xkCHJK164v84VG9F7).
+Currently, we don't have a specific challenge for these types of professionals (but we are working on it!). For now, please [fill this out](https://forms.gle/xkCHJK164v84VG9F7).
 
 ### Machine Learning Specialist and Data Scientist
 We've created a public challenge that is available at our GitHub page. To apply, generate a **private** repository from [our template](https://github.com/3778/ml-challenge) and start solving the challenge. When you think it looks good enough, invite [dsevero](https://github.com/dsevero) to be a contributor on GitHub. The diagram below illustrates the rest.
