@@ -13,7 +13,7 @@ We are an <b>Equal Opportunity Company</b> that is growing fast and we want to g
 
 - **Salary Starters:** 
 
-Internship: R$1200 + R$100 VT
+Internship: R$1400 + R$100 VT
 
 Jr: R$ 3.000+
 
