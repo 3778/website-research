@@ -2,30 +2,53 @@
 math = true
 +++
 
-# <b>Data Scientist @ 3778</b>
+# <b> Become a player @ 3778</b>
 
 ---
-Here at 3778 we are **always** looking for talented scientists, engineers and analysts that are passionate about applying and developing machine learning algorithms for healthcare. We transform data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as UX-focused applications. Our goal is to make health services integrated and accessible for everyone.
+Here at 3778 we are **always** looking for talented professionals that are interested in the use of machine learning algorithms for healthcare. We transform data into the best health experience for people, professionals and organizations, applying our own AI algorithms, as well as UX-focused applications. Our goal is to make health services integrated and accessible for everyone.
 
 We are an <b>Equal Opportunity Company</b> that is growing fast and we want to grow with the best team, and it takes diversity to achieve that. Regardless of your color, religion, gender, you are very welcome to our process.
 
 ## <b>Compensation and Perks</b>
-We provide competitive compensation and working conditions that vary depending on contract type (CLT or PJ) and experience. Keeping teams small enables us to better understand the necessities of each person individually.
 
-- **Salary Range:** R$ 3.000 (Jr) to 15.000 (Sr);
-- **Perks:** Flexibility, Home-Office (2x per week), up to 3x your salary for completed OKRs; 
-- **Health insurance:** Bradesco saúde hospitalar and customized family doctor plan, even for the PJ contract option!
+- **Salary Starters:** 
+
+Internship: R$1200 + R$100 VT
+
+Jr: R$ 3.000+
+
+Pl: R$ 6.000+
+
+Sr: R$ 10.000+
+
+Lead/Head: R$12.000+
+
+- **Perks:** 
+
+VR worth of R$ 425 for CLT
+
+Bonus of up to 3x your salary for completed OKRs
+
+Flexibility and possibility of Home-Office up to 2x per week
+
+Health insurance Bradesco Saúde Hospitalar and customized family doctor plan, even for the PJ contract option!
+
+## <b>Our team</b>
+---
+Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Journalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
 
 ## <b>What skills are we looking for?</b>
 ---
 
-Data Science is a spectrum, but it can be divided into 4 positions: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed characteristics that are common amongst each. This is by no means the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
+Data Science is a spectrum, and we divide into 4 positions: Data Engineer, Machine Learning Specialist, Data Scientist and Business Analyst. Below, we've listed characteristics that are common amongst each. This is by no means the usual "minimal requirements" for applying. Again, **this is NOT a list of requirements**.
 
 ### Data Engineer
 - Interested in Scala, Python, and/or Clojure;
 - Writes up mad SQL queries using WITH clauses instead of sub-queries;
 - Extended knowledge of cloud providers such as AWS, GCP and Azure;
 - A grounded understanding of system architectures, especially those targeted at data intensive applications;
+- Experience using Airflow;
+- Can build and manage pipelines;
 - Working knowledge of computer networks and distributed systems;
 - Security minded, and understands basic concepts of threat modeling and cryptography;
 - Experience with AWS Athena/Redshift, Presto, Hive, Spark, or similar ETL and warehousing technologies;
@@ -61,18 +84,13 @@ Data Science is a spectrum, but it can be divided into 4 positions: Data Enginee
 
 If you feel that you fit into one, two or maybe even all of these categories: you are welcome to apply!
 
-## <b>Our team</b>
----
-Diversity is key. Our team, spawns multiple backgrounds such as Economists, Engineers, Computer Scientists, Medical Doctors, Journalists and Designers. We are partially remote and distributed between Belo Horizonte, São Paulo and Florianópolis. More information on specific team members is available [at our homepage](https://research.3778.care/#people).
-
 ## <b>How to apply?</b>
 ---
-We believe that a selection process should be fair and open to the widest audience possible. It should also test and teach the necessary skills. There are currently 2 ways of applying, and they differ depending on the position you are interested in. We try as much as possible to hire based on candidate **potential** and not just experience. 
 
-### Data Engineer and Data Analyst
-Currently, we don't have a specific challenge for these types of professionals (but we are working on it!). For now, please [fill this out](https://forms.gle/xkCHJK164v84VG9F7).
+### Data Engineer
+Currently, we don't have a specific challenge (but we are working on it!). For now, please send an email to [join-us@3778.care](join-us@3778.care) with the title "Data Engineer @ 3778" and send relevant information. We normally reply in no more than 2 days.
 
-### Machine Learning Specialist and Data Scientist
+### Machine Learning Specialist, Data Analyst and Data Scientist
 We've created a public challenge that is available at our GitHub page. To apply, generate a **private** repository from [our template](https://github.com/3778/ml-challenge) and start solving the challenge. When you think it looks good enough, invite [dsevero](https://github.com/dsevero) to be a contributor on GitHub. The diagram below illustrates the rest.
 
 (if the diagram below doesn't appear, please refresh the page)
